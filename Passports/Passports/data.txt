@@ -1,0 +1,30 @@
+ID: 1
+Name: Martina
+Middle Name: Dragomirova
+Last Name: Slavcheva
+EGN: 0147041234
+City: Varna
+Country: Bulgaria
+Gender: Female
+Color of eyes: Green
+-------------------------
+ID: 2
+Name: Ivayla
+Middle Name: Stanislavova
+Last Name: Georgieva
+EGN: 0247152345
+City: Varna
+Country: Bulgaria
+Gender: Female
+Color of eyes: Brown
+-------------------------
+ID: 3
+Name: Rostislav
+Middle Name: Radostinov
+Last Name: Demirov
+EGN: 0345121996
+City: Sofia
+Country: Bulgaria
+Gender: Male
+Color of eyes: Blue
+-------------------------

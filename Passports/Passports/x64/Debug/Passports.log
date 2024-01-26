@@ -1,0 +1,16 @@
+﻿  Passports.cpp
+D:\TUVaRNA\Course3\sem5\PC-pROJECT\Passports\Passports\Passports\Passports\Passports\Passports.cpp(195,18): warning C4101: 'username': unreferenced local variable
+D:\TUVaRNA\Course3\sem5\PC-pROJECT\Passports\Passports\Passports\Passports\Passports\Passports.cpp(195,32): warning C4101: 'password': unreferenced local variable
+D:\TUVaRNA\Course3\sem5\PC-pROJECT\Passports\Passports\Passports\Passports\Passports\Passports.cpp(312,41): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+D:\TUVaRNA\Course3\sem5\PC-pROJECT\Passports\Passports\Passports\Passports\Passports\Passports.cpp(313,41): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+D:\TUVaRNA\Course3\sem5\PC-pROJECT\Passports\Passports\Passports\Passports\Passports\Passports.cpp(314,41): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+D:\TUVaRNA\Course3\sem5\PC-pROJECT\Passports\Passports\Passports\Passports\Passports\Passports.cpp(341,41): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+D:\TUVaRNA\Course3\sem5\PC-pROJECT\Passports\Passports\Passports\Passports\Passports\Passports.cpp(342,41): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+D:\TUVaRNA\Course3\sem5\PC-pROJECT\Passports\Passports\Passports\Passports\Passports\Passports.cpp(343,41): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+D:\TUVaRNA\Course3\sem5\PC-pROJECT\Passports\Passports\Passports\Passports\Passports\Passports.cpp(562,27): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+D:\TUVaRNA\Course3\sem5\PC-pROJECT\Passports\Passports\Passports\Passports\Passports\Passports.cpp(627,29): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+D:\TUVaRNA\Course3\sem5\PC-pROJECT\Passports\Passports\Passports\Passports\Passports\Passports.cpp(696,27): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+D:\TUVaRNA\Course3\sem5\PC-pROJECT\Passports\Passports\Passports\Passports\Passports\Passports.cpp(663,18): warning C4101: 'buffer': unreferenced local variable
+D:\TUVaRNA\Course3\sem5\PC-pROJECT\Passports\Passports\Passports\Passports\Passports\Passports.cpp(978,36): warning C4101: 'stopstring': unreferenced local variable
+D:\TUVaRNA\Course3\sem5\PC-pROJECT\Passports\Passports\Passports\Passports\Passports\Passports.cpp(986,42): warning C4101: 'e': unreferenced local variable
+  Passports.vcxproj -> D:\TUVaRNA\Course3\sem5\PC-pROJECT\Passports\Passports\Passports\Passports\x64\Debug\Passports.exe
